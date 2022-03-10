@@ -2,5 +2,7 @@ Hello world!
 change in it
 change for bug1
 change for WI4 by teammate for 3 way merge with conflict.
-change for bug2,3 way merging with conflict.
+ HEAD
 change for WI4 by teammate to check rebase
+=======
+change for cr1 rebase with conflict.

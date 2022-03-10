@@ -1,3 +1,4 @@
 Hello world!
 change in it
 change for bug1
+change for WI4 by teammate,3 way merge with conflict

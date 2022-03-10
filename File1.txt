@@ -1,3 +1,5 @@
 Hello world!
-change in it
-change for bug1
+
+change in it.
+change for bug1.
+change for bug2,3 way merging with conflict.

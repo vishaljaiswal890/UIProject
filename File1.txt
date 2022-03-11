@@ -7,3 +7,7 @@ change for WI4 by teammate to check rebase
 =======
 change for cr1 rebase with conflict.
 change for WI6 for stash-improve for half work.
+
+change for WI7 or remote master by teammate to test pull operation
+
+
